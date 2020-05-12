@@ -1,5 +1,5 @@
 {
-    "name": "rgilyov/laravel-csv-importer",
+    "name": "BillInsites/laravel-csv-importer",
     "description": "Easy and reliable way to import, parse, validate and transform your csv files with laravel",
     "type": "library",
     "license": "MIT",
